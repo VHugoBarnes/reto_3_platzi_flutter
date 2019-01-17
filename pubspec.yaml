@@ -70,3 +70,15 @@ flutter:
     - family: Roboto
       fonts:
         - asset: fonts/Roboto-Regular.ttf
+  
+  assets:
+    - assets/img/thedo.jpg
+    - assets/img/kerokerobonito.jpg
+    - assets/img/frankiecosmos.jpg
+    - assets/img/alvvays.jpg
+    - assets/img/bjork.jpg
+    - assets/img/blink182.jpg
+    - assets/img/crumb.jpg
+    - assets/img/ghostemane.jpg
+    - assets/img/myrkur.jpg
+    - assets/img/lindseystirling.jpg
